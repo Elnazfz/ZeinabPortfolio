@@ -22,7 +22,7 @@ Motivated Computer Science student and aspiring software developer with hands-on
 ## 💻 Projects  
 
 ### 🌐 Web & Frontend Projects  
-- [Digital CV Website](https://github.com/Elnazfz/digital-cv)  
+- [Digital CV Website](https://github.com/Elnazfz/Digital-CV-Website/blob/main/CV.project3.HTML)  
   Responsive personal CV using HTML, CSS, and Flexbox.
 
 - [Caesar Cipher App](https://github.com/Elnazfz/caesar-cipher)  
