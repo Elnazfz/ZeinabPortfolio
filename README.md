@@ -34,7 +34,7 @@ Motivated Computer Science student and aspiring software developer with hands-on
 - [It's Jeopardy!](https://github.com/Elnazfz/Jeopardy_game/tree/main)  
   Quiz game using asynchronous JavaScript and dynamic DOM updates.
 
-- [FizzBuzz Program](https://github.com/Elnazfz/fizzbuzz)  
+- [FizzBuzz Program](https://github.com/Elnazfz/mini-coding-challenges)  
   Classic FizzBuzz implementation in JavaScript demonstrating loops, conditionals, and basic problem-solving logic.
 
 ### 💡 C++ & Algorithmic Projects
