@@ -12,7 +12,7 @@ Motivated Computer Science student and aspiring software developer with hands-on
 ---
 
 ## 🛠️ Skills  
-- Languages: JavaScript (ES6+), HTML, CSS, C++ (in progress)  
+- Languages: JavaScript (ES6+), HTML, CSS, C++  
 - Tools: Git, GitHub, Microsoft Excel, Word, Access, Adobe Photoshop  
 - Topics: Data Structures, Cybersecurity fundamentals, Problem-Solving, Debugging  
 - Core Skills: Team Collaboration, Time Management, Customer Service  
@@ -25,7 +25,7 @@ Motivated Computer Science student and aspiring software developer with hands-on
 - [Digital CV Website](https://github.com/Elnazfz/Digital-CV-Website/blob/main/CV.project3.HTML)  
   Responsive personal CV using HTML, CSS, and Flexbox.
 
-- [Caesar Cipher App](https://github.com/Elnazfz/caesar-cipher)  
+- [Caesar Cipher App](https://github.com/Elnazfz/ceaser-cipher-js/tree/main)  
   Multi-step JavaScript program for text encryption and decryption, with user-defined keys.
 
 - [Meme Generator](https://github.com/Elnazfz/meme-generator)  
