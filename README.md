@@ -41,7 +41,7 @@ Motivated Computer Science student and aspiring software developer with hands-on
 - [Bank System](https://github.com/Elnazfz/bank-system)  
   Console-based banking app practicing loops, conditionals, and string manipulation.
 
-- [Number Guessing Game](https://github.com/Elnazfz/number-guessing-game)  
+- [Number Guessing Game](https://github.com/Elnazfz/number_guessing_game)  
   Console game using random number generation and control structures.
 
 - [Data Structures Practice](https://github.com/Elnazfz/data-structures)  
