@@ -31,7 +31,7 @@ Motivated Computer Science student and aspiring software developer with hands-on
 - [Meme Generator](https://github.com/Elnazfz/meme-generator)  
   Interactive meme creation using DOM manipulation and JavaScript events.
 
-- [It's Jeopardy!](https://github.com/Elnazfz/its-jeopardy)  
+- [It's Jeopardy!](https://github.com/Elnazfz/Jeopardy_game/tree/main)  
   Quiz game using asynchronous JavaScript and dynamic DOM updates.
 
 ### 💡 C++ & Algorithmic Projects  
