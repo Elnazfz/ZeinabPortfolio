@@ -44,7 +44,7 @@ Motivated Computer Science student and aspiring software developer with hands-on
 - [Number Guessing Game](https://github.com/Elnazfz/number_guessing_game)  
   Console game using random number generation and control structures.
 
-- [Data Structures Practice](https://github.com/Elnazfz/data-structures)  
+- [Data Structures Practice](https://github.com/Elnazfz/DataStructureProject/tree/main)  
   Implemented basic Linked List, Stack, Queue, and sorting algorithms in C++.
 
 ### 🔐 Cybersecurity & Security Projects
