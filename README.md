@@ -51,7 +51,7 @@ Motivated Computer Science student and aspiring software developer with hands-on
 - [Password Strength Checker](https://github.com/Elnazfz/password-checker)  
   JavaScript tool to evaluate password complexity and apply basic security rules.
 
-- [Simple Encryption App](https://github.com/Elnazfz/simple-encryption)  
+- [Simple Encryption App](https://github.com/Elnazfz/Simple-Encryption-App/tree/main)  
   Implements text encryption and decryption to demonstrate basic cybersecurity concepts.
 
 ---
