@@ -48,7 +48,7 @@ Motivated Computer Science student and aspiring software developer with hands-on
   Implemented basic Linked List, Stack, Queue, and sorting algorithms in C++.
 
 ### 🔐 Cybersecurity & Security Projects
-- [Password Strength Checker](https://github.com/Elnazfz/password-checker)  
+- [Password Strength Checker](https://github.com/Elnazfz/password-strength-checker)  
   JavaScript tool to evaluate password complexity and apply basic security rules.
 
 - [Simple Encryption App](https://github.com/Elnazfz/Simple-Encryption-App/tree/main)  
